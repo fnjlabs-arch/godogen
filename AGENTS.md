@@ -1,4 +1,4 @@
-# Godogen Source Repo
+# SadSha GameGen Source Repo
 
 This repository is not a published game repo. It is the source that `publish.sh` renders into a runtime game repo for a chosen engine and host agent.
 

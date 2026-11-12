@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Publish Godogen runtime files into a target game repo.
+# Publish SadSha GameGen runtime files into a target game repo.
 #
 # Usage:
 #   ./publish.sh --engine <engine> --agent claude|codex --out <dir> [--force]

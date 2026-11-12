@@ -1,6 +1,6 @@
-# Godogen — From Prompt to Playable Game
+# SadSha GameGen — From Prompt to Playable Game
 
-Godogen turns a natural-language game brief into a playable Godot, Bevy, Babylon.js, or three.js project. The agent builds the game, generates assets, runs the engine, and proves the result from the running game.
+SadSha GameGen turns a natural-language game brief into a playable Godot, Bevy, Babylon.js, or three.js project. The agent builds the game, generates assets, runs the engine, and proves the result from the running game.
 
 It is not a game engine, a code generator, or an asset marketplace. It is a source repo that publishes a thin runtime — a manifest, an engine guide, and an asset skill — into a fresh game repo that Claude Code or Codex then builds in.
 

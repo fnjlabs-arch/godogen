@@ -1,4 +1,4 @@
-# Godogen
+# SadSha GameGen
 
 Autonomous game development for Godot (C# or GDScript), Bevy, Babylon.js, and three.js with Claude Code and Codex.
 
@@ -8,7 +8,7 @@ Autonomous game development for Godot (C# or GDScript), Bevy, Babylon.js, and th
 
 Describe a game. The agent builds it, generates assets, runs the engine, and proves the result — as a live game you watch and steer, or as a recorded video when you're not there. It reads the situation and decides which, in the run.
 
-This repo is not a game. It is the source for a generator that produces games: **godogen -> game repo -> game**. You publish into a fresh game repo — choosing engine and host-agent flavor — then the agent runs inside that repo and builds the actual game from a short engine guide.
+This repo is not a game. It is the source for a generator that produces games: **sadsha-gamegen -> game repo -> game**. You publish into a fresh game repo — choosing engine and host-agent flavor — then the agent runs inside that repo and builds the actual game from a short engine guide.
 
 ## Source layout
 

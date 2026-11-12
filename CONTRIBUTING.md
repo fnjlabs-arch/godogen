@@ -1,8 +1,8 @@
-# Contributing to Godogen
+# Contributing to SadSha GameGen
 
 ## Philosophy
 
-Godogen is an autonomous pipeline. The goal is to generate the best possible games with as little human guidance as possible. Every piece of this repo exists to serve that goal.
+SadSha GameGen is an autonomous pipeline. The goal is to generate the best possible games with as little human guidance as possible. Every piece of this repo exists to serve that goal.
 
 We keep things lean and focused. We don't add features just to have them — we'd rather have one clear, well-built tool than several mediocre ones. Less surface area means easier maintenance and better agent efficiency. If a new feature doesn't make the pipeline meaningfully better at producing games autonomously, it doesn't belong here.
 

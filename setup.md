@@ -1,6 +1,6 @@
 # Workstation Setup
 
-Shared workstation setup for the consolidated Godogen source repo.
+Shared workstation setup for the consolidated SadSha GameGen source repo.
 
 ## .NET 9 SDK
 

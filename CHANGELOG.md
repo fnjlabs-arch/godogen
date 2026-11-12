@@ -35,7 +35,7 @@
 
 **2026-05-18 — Babylon.js support**
 - Added Babylon.js as a first-class engine alongside Godot and Bevy
-- Disposable TypeScript/Vite scaffold with scene-level hot reload through a custom Vite plugin (`godogen:scene-change`); engine and canvas persist across edits
+- Disposable TypeScript/Vite scaffold with scene-level hot reload through a custom Vite plugin (`sadsha-gamegen:scene-change`); engine and canvas persist across edits
 - Browser capture through Playwright + Chrome/Chromium; hardware WebGL2 preferred, software-renderer fallback warns prominently but still produces media
 - `babylon-help` skill uses installed npm package types as the primary local reference
 - `publish.sh` extended to `--engine babylon`
@@ -63,4 +63,4 @@
 - Background removal rewritten with BiRefNet multi-signal matting
 
 **2026-03-09 — Initial release**
-- Initial Godogen release with image generation, 3D conversion, screenshot QA, and video capture
+- Initial SadSha GameGen release with image generation, 3D conversion, screenshot QA, and video capture
